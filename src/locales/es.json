@@ -1,0 +1,340 @@
+{
+  "localeCode": "es-ES",
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "certifications": "Certificaciones",
+    "projects": "Proyectos",
+    "blog": "Blog"
+  },
+  "sidebar": {
+    "role": "Desarrollador Web",
+    "resume": "Currículum",
+    "darkMode": "Modo Oscuro",
+    "language": "Idioma",
+    "languageTooltip": "Cambiar idioma",
+    "navigationMenu": "Menú de Navegación",
+    "footer": {
+        "sourceCode": "Ver Código Fuente",
+        "copyright": "Diseñado y construido por Miguel Burgos @ 2025"
+    }
+  },
+  "main": {
+    "welcome": "Bienvenido a mi portafolio",
+    "welcome2": "Desplegando Ideas a la Realidad",
+    "welcome3": "Construyendo Experiencias",
+    "welcome4": "¿Tienes un proyecto en mente? Hablemos",
+    "careerStats": "Estadísticas de Carrera",
+    "careerStatItems": {
+      "experience": "Experiencia",
+      "experienceYears": "Años",
+      "certificates": "Certificados",
+      "projects": "Proyectos",
+      "technologies": "Tecnologías"
+    },
+    "featured": "Destacado",
+    "skillSet": "Habilidades",
+    "expertise": "Experiencia",
+    "expertiseItems": {
+      "webDevelopment": "Desarrollo Web",
+      "webDevelopmentDescription": "Especializado en la creación de aplicaciones web dinámicas y responsivas. Mi experiencia abarca tanto el frontend, con tecnologías como React y Next.js, como el backend, desarrollando APIs y servicios robustos.",
+      "graphicDesign": "Diseño Gráfico",
+      "graphicDesignDescription": "Creación de identidades visuales, material gráfico atractivo y motion graphics. Utilizo herramientas como Photoshop y After Effects para diseñar logos, animaciones y otros elementos visuales que comuniquen de manera efectiva.",
+      "digitalMarketing": "Marketing Digital",
+      "digitalMarketingDescription": "Experiencia en estrategias de marketing digital, incluyendo SEO, gestión de contenidos y campañas en redes sociales para mejorar la presencia online y atraer a potenciales clientes.",
+      "uiUxDesign": "Diseño UI / UX",
+      "uiUxDesignDescription": "Enfocado en diseñar interfaces intuitivas y funcionales. Creo mockups y prototipos para asegurar que la experiencia de usuario sea óptima, desde la navegación hasta la interacción final."
+    },
+    "getInTouch": "Ponte en Contacto",
+    "getInTouchDescription": "Construyamos algo genial juntos - no dudes en conectarte conmigo a través de cualquiera de las plataformas anteriores.",
+    "services": {
+        "title": "Mis Servicios",
+        "webDevelopment": "Desarrollo Web",
+        "webDevelopmentServiceDescription": "Creación de aplicaciones web dinámicas, responsivas y de alto rendimiento adaptadas a tus necesidades.",
+        "graphicDesign": "Diseño Gráfico",
+        "graphicDesignServiceDescription": "Diseño de identidades visuales y material gráfico atractivo que comuniquen tu mensaje de manera efectiva.",
+        "digitalMarketing": "Marketing Digital",
+        "digitalMarketingServiceDescription": "Implementación de estrategias SEO y gestión de contenidos para mejorar tu presencia online."
+    },
+    "seeMore": "Ver más",
+    "seeLess": "Ver menos"
+  },
+  "aboutPage": {
+    "name": "Miguel Burgos",
+    "initials": "MA",
+    "role": "Estudiante de Ing. de Software y Desarrollador Web",
+    "headerAlt": "Red abstracta de nodos interconectados, representando tecnología y desarrollo de software.",
+    "messageButton": "Escríbeme",
+    "aboutTitle": "Sobre Mí",
+    "seeMore": "Ver más",
+    "seeLess": "Ver menos",
+    "fullAboutText": "Actualmente, estoy estudiando Ingeniería de Software en la Fundación Universitaria Compensar, donde profundizo en arquitectura de software, metodologías ágiles y patrones de desarrollo. También soy técnico en Mercadeo y Ventas, con experiencia en labores administrativas, atención al cliente y ventas, lo que me da una visión amplia de las necesidades del negocio. Me apasiona el arte y la tecnología, y de forma autodidacta he aprendido diseño y producción multimedia. Mi objetivo es combinar mis conocimientos técnicos con mis habilidades de comunicación para desarrollar proyectos útiles y bien pensados, que realmente respondan a las necesidades de las personas.",
+    "shortAboutText": "Actualmente, estoy cursando la carrera de Ingeniería de Software...",
+    "showAllCertificates": "Mostrar todos los certificados",
+    "form": {
+        "name": "Nombre",
+        "namePlaceholder": "Tu nombre",
+        "email": "Correo",
+        "emailPlaceholder": "tu.correo@ejemplo.com",
+        "message": "Mensaje",
+        "messagePlaceholder": "Escribe tu mensaje aquí...",
+        "submit": "Enviar Mensaje",
+        "contactTitle": "Enviar Mensaje",
+        "contactNote": "No dude en enviarme un mensaje, responderé directamente a su correo electrónico."
+    },
+    "education": {
+        "title": "Educación",
+        "degree": "Ingeniería de Software",
+        "institution": "Fundación Universitaria Compensar",
+        "date": "Ago. 2022 - presente",
+        "fullDescription": "Algoritmos||Bases de Datos||Estructuras de Datos||Programación Orientada a Objetos||Pruebas de Software||Desarrollo de Software Web Front - End||Interfaces de Usuario||Desarrollo de Software Web Back-end||Desarrollo de Aplicaciones Móviles Nativas||Física Mecánica||Cálculo Multivariado||Desarrollo de Soluciones Cloud||Requerimientos de Software||Desarrollo de Aplicaciones Móviles Híbridas||Patrones de Diseño de Software y Seguridad de la Información.",
+        "shortDescription": "Algoritmos, Bases de Datos, Estructuras de Datos..."
+    },
+    "education2": {
+      "degree": "Técnico en Mercadeo y Ventas",
+      "institution": "Inesco",
+      "date": "Ene. 2019 - Jul. 2020",
+      "fullDescription": "Fundamentos de mercadeo||Mercadeo digital||Diseño y adecuación de espacios||Técnicas de ventas||Servicio al cliente.",
+      "shortDescription": "Fundamentos de mercadeo, Mercadeo digital..."
+    },
+    "experience": {
+        "title": "Experiencia",
+        "role_intern": "Practicante mercadeo y administrativo",
+        "company_intern": "Nexarte, operación alimentos polar",
+        "date_intern": "Jul. 2019 - May. 2020",
+        "fullDescription_intern": "Acompañamiento a mercaderistas y vendedores.||Elaborar reportes de incapacidades y retiros de personal.||Entrega de suministros y control de inventario.",
+        "shortDescription_intern": "Acompañamiento a mercaderistas y vendedores...",
+        "role_commercial": "Especialista en contenido y redes sociales",
+        "company_commercial": "Todo a un Click",
+        "date_commercial": "May. 2020 - Dic. 2021",
+        "fullDescription_commercial": "Desarrollar y gestionar contenido atractivo y relevante para plataformas digitales, incluyendo blogs, redes sociales, y correos electrónicos, alineado con la identidad de marca.||Planificar y ejecutar estrategias para aumentar el alcance y el compromiso en redes sociales, adaptando el contenido a cada plataforma (Instagram, Facebook, Twitter, LinkedIn, etc.).||Optimizar el contenido para mejorar la visibilidad en buscadores y atraer tráfico orgánico, utilizando palabras clave y tendencias de búsqueda relevantes.||Monitorizar métricas de rendimiento de redes sociales y contenido, realizando ajustes según los resultados y tendencias.",
+        "shortDescription_commercial": "Desarrollar y gestionar contenido atractivo y relevante...",
+        "role_dev": "Programador Junior",
+        "company_dev": "Todo a un Click",
+        "date_dev": "Ene. 2022 - May. 2025",
+        "fullDescription_dev": "Creación de mockups en Figma / Adobe Xd de sitios web.||Convertir diseños de Figma / Adobe XD en sitios web receptivos y accesible con Wordpress, Node y React.||Optimizar sitios web para velocidad, accesibilidad y SEO.||Solución de problemas, depuración y optimización de las bases de código existentes.||Participación en el desarrollo de planes de prueba de código, pruebas de control de calidad, seguimiento y resolución de problemas.||Elaborar campañas de marketing digital por correo electrónico y redes sociales.||Registro y clasificación de Incidentes y solicitudes.",
+        "shortDescription_dev": "Creación de mockups en Figma / Adobe Xd de sitios web..."
+    }
+  },
+  "contactForm": {
+    "status": {
+      "loading": "Enviando mensaje...",
+      "successTitle": "¡Mensaje Enviado!",
+      "successMessage": "Gracias por contactarme. Te responderé pronto.",
+      "errorTitle": "Error al Enviar",
+      "errorMessage": "Hubo un problema al enviar tu mensaje. Por favor, inténtalo de nuevo.",
+      "tryAgain": "Intentar de Nuevo"
+    }
+  },
+  "certificationsPage": {
+    "showCredential": "Mostrar Credencial",
+    "sortNewest": "Más recientes",
+    "sortOldest": "Más antiguos",
+    "filterPlaceholder": "Filtrar por emisor...",
+    "filterAll": "Todos los emisores"
+  },
+  "blogPage": {
+    "title": "Blogs",
+    "recentPosts": "Publicaciones Recientes",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "page": "Página {currentPage} de {totalPages}"
+  },
+  "projectsPage": {
+    "mobileDevelopment": "Móvil",
+    "technologies": "Tecnologías",
+    "frontendRepository": "Repo Frontend",
+    "backendRepository": "Repo Backend",
+    "repository": "Repositorio",
+    "demo": "Demo",
+    "viewGallery": "Ver Galería",
+    "viewPromo": "Ver Promo"
+  },
+  "projects": {
+    "web": {
+      "salonderechazados": {
+        "title": "Salón de Rechazados",
+        "description": "Salón de Rechazados nace como un espacio para quienes sienten el cine de una manera más profunda y personal, ¿qué te deja una película después de verla? Evitando reseñas técnicas y listados de las películas más taquilleras."
+      },
+      "yuwelongo": {
+        "title": "YuweLongo",
+        "description": "YuweLongo es un diccionario interactivo sobre la lengua indígena Nasa Yuwe, acompañado de un juego educativo. El frontend está construido con React y se conecta con un Backend en Java (Jakarta EE / Servlets) que maneja la autenticación mediante JWT."
+      },
+      "futdraft": {
+        "title": "1vs1 FutDraft",
+        "description": "Aplicación web interactiva diseñada para que los aficionados al fútbol puedan crear, visualizar y compartir alineaciones del FPC. Este proyecto, desarrollado como parte de mi portafolio, demuestra la capacidad de construir una aplicación full-stack moderna, interactiva y escalable."
+      },
+      "petlink": {
+        "title": "Pet Link",
+        "description": "Sistema diseñado para la gestión y seguridad de mascotas. Permite a los dueños crear perfiles detallados para sus mascotas, vinculados a placas de identificación con códigos QR únicos."
+      },
+      "coonadoc": {
+        "title": "Coonadoc",
+        "description": "Sitio web para una cooperativa de aportes y credito."
+      },
+      "picasyfijas": {
+        "title": "Picas y fijas",
+        "description": "Un juego de lógica clásico para adivinar un número secreto. Elaborado como proyecto para la clase de Algoritmos."
+      },
+      "textencryptor": {
+        "title": "Encriptador de texto",
+        "description": "Una herramienta sencilla para encriptar y desencriptar mensajes. Elaborado como proyecto para el curso Front-end en Alura Latam"
+      }
+    },
+    "mobile": {
+        "nexwork": {
+            "title": "NexWork",
+            "description": "NexWork es una aplicación móvil para Android que conecta proveedores de servicios con clientes dentro de un marketplace de dos vías. La plataforma facilita la búsqueda, reserva y gestión de servicios mediante un sistema basado en roles para clientes, proveedores y administradores."
+        }
+    },
+    "graphic": {
+      "toshiro": {
+        "title": "Carrusel Toshiro Sushi",
+        "description": "Carrusel promocional diseñado para las redes sociales de Toshiro, un restaurante de sushi, destacando sus productos estrella y su identidad de marca."
+      },
+      "sdr": {
+        "title": "Manual de Marca Salón de Rechazados",
+        "description": "Proyecto personal para explorar análisis de películas, video-ensayos y críticas de cine. Un espacio para los que sienten el cine, más allá de las reseñas convencionales."
+      },
+       "coopfiligrana": {
+        "title": "Carrusel de Historias Coopfiligrana",
+        "description": "Carrusel con historias diseñado para las redes sociales de la cooperativa Coopfiligrana."
+      }
+    },
+    "uiux": {
+      "smarthome": {
+        "title": "Mockup Dashboard SmartHome",
+        "description": "Empresa que permite a los usuarios monitorear y controlar en tiempo real la eficiencia energética, la seguridad perimetral y el confort ambiental (iluminación y clima) de sus hogares, transformando datos complejos de sensores en información accionable para reducir el impacto ambiental y mejorar la calidad de vida."
+      },
+      "sbcleanco": {
+        "title": "Mockup Sitio Web SBCleanCo",
+        "description": "Empresa que ofrece servicios de aseo para emprecesas, tiendas, galerias, gym y spas."
+      },
+      "FlowSync":{
+        "title":"FlowSync Ladingpage Mockup",
+        "description":"Es una plataforma de gestión de flotas y última milla basada en inteligencia artificial."
+      }
+    }
+  },
+  "certifications": {
+    "months": {
+        "jan": "Ene", "feb": "Feb", "mar": "Mar", "apr": "Abr", "may": "May", "jun": "Jun",
+        "jul": "Jul", "aug": "Ago", "sep": "sep", "oct": "Oct", "nov": "Nov", "dec": "Dic"
+    },
+    "ccna1": {
+      "title": "CCNA1: Introducción a las redes",
+      "issuer": "Cisco Networking Academy",
+      "date": "Abr. 2025"
+    },
+    "dataScienceAzure": {
+        "title": "Ciencia de Datos con Azure",
+        "issuer": "Código Facilito",
+        "date": "Feb. 2025"
+    },
+    "oracleCloud": {
+        "title": "Formación Oracle Cloud Infrastructure",
+        "issuer": "Alura Latam",
+        "date": "Nov. 2024"
+    },
+    "sqlMysql": {
+        "title": "Formación SQL con MySQL",
+        "issuer": "Alura Latam",
+        "date": "Nov. 2024"
+    },
+    "sqlServer": {
+        "title": "Formación SQL con MySQL Server de Oracle",
+        "issuer": "Alura Latam",
+        "date": "Nov. 2024"
+    },
+    "genAI": {
+        "title": "Formación IA Generativa",
+        "issuer": "Alura Latam",
+        "date": "Oct. 2024"
+    },
+    "reactJs": {
+        "title": "Formación Explora React con JavaScript",
+        "issuer": "Alura Latam",
+        "date": "Jul. 2024"
+    },
+    "frontend": {
+        "title": "Formación Front-End",
+        "issuer": "Alura Latam",
+        "date": "Jul. 2024"
+    },
+    "react": {
+        "title": "Formación React",
+        "issuer": "Alura Latam",
+        "date": "Jul. 2024"
+    },
+    "oracleFrontend": {
+        "title": "Programa Oracle Next Education F2 T6 Front-end",
+        "issuer": "Alura Latam",
+        "date": "Jul. 2024"
+    },
+    "logicJs": {
+        "title": "Formación Lógica de programación con JavaScript",
+        "issuer": "Alura Latam",
+        "date": "Ene. 2024"
+    },
+    "gitGithub": {
+        "title": "Git y GitHub: repositorio, commit y versiones",
+        "issuer": "Alura Latam",
+        "date": "Ene. 2024"
+    },
+    "javaProgramming": {
+        "title": "Programación en Java",
+        "issuer": "Oracle",
+        "date": "Oct. 2024"
+    },
+    "javaFoundations": {
+        "title": "Fundamentos de Java",
+        "issuer": "Oracle",
+        "date": "Abr. 2024"
+    },
+    "databaseDesign": {
+        "title": "Diseño de Bases de Datos",
+        "issuer": "Oracle",
+        "date": "May. 2024"
+    },
+    "databaseFoundations": {
+        "title": "Fundamentos de Bases de Datos",
+        "issuer": "Oracle",
+        "date": "Nov. 2023"
+    },
+    "javaFundamentals": {
+        "title": "Fundamentos de Java",
+        "issuer": "Oracle",
+        "date": "Oct. 2023"
+    },
+    "gitGithubPlatzi": {
+        "title": "Curso profesional de Git y Github",
+        "issuer": "Platzi",
+        "date": "Oct. 2022"
+    },
+    "softwareDevelopment": {
+        "title": "Desarrollo de software",
+        "issuer": "Universidad del Bosque",
+        "date": "Nov. 2021"
+    },
+    "programmingFundamentals": {
+        "title": "Fundamentos de programación",
+        "issuer": "Universidad del Bosque",
+        "date": "Nov. 2021"
+    },
+    "basicProgramming": {
+        "title": "Programación básica",
+        "issuer": "Universidad del Bosque",
+        "date": "Nov. 2021"
+    },
+    "digitalMarketing": {
+        "title": "Conceptos básicos de marketing digital",
+        "issuer": "Google Digital Garage",
+        "date": "May. 2021"
+    },
+    "introDataScience": {
+      "title": "Introducción a la Ciencia de Datos",
+      "issuer": "Cisco Networking Academy",
+      "date": "Sep. 2023"
+    }
+  }
+}

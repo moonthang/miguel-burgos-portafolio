@@ -1,0 +1,340 @@
+{
+  "localeCode": "en-US",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "certifications": "Certifications",
+    "projects": "Projects",
+    "blog": "Blog"
+  },
+  "sidebar": {
+    "role": "Web Developer",
+    "resume": "Resume",
+    "darkMode": "Dark Mode",
+    "language": "Language",
+    "languageTooltip": "Change language",
+    "navigationMenu": "Navigation Menu",
+    "footer": {
+        "sourceCode": "View Source Code",
+        "copyright": "Designed & Built by Miguel Burgos @ 2025"
+    }
+  },
+  "main": {
+    "welcome": "Welcome to my portfolio",
+    "welcome2": "Deploying Ideas into Reality",
+    "welcome3": "Building Experiences",
+    "welcome4": "Got a project in mind? Let's chat",
+    "careerStats": "Career Stats",
+    "careerStatItems": {
+      "experience": "Experience",
+      "experienceYears": "Years",
+      "certificates": "Certificates",
+      "projects": "Projects",
+      "technologies": "Technologies"
+    },
+    "featured": "Featured",
+    "skillSet": "Skill Set",
+    "expertise": "Experience",
+    "expertiseItems": {
+      "webDevelopment": "Web Development",
+      "webDevelopmentDescription": "Specializing in creating dynamic and responsive web applications. My experience covers both frontend, with technologies like React and Next.js, and backend, developing robust APIs and services.",
+      "graphicDesign": "Graphic Design",
+      "graphicDesignDescription": "Creating visual identities, attractive graphic materials, and motion graphics. I use tools like Photoshop and After Effects to design logos, animations, and other visual elements that communicate effectively.",
+      "digitalMarketing": "Digital Marketing",
+      "digitalMarketingDescription": "Experience in digital marketing strategies, including SEO, content management, and social media campaigns to improve online presence and attract potential clients.",
+      "uiUxDesign": "UI / UX Design",
+      "uiUxDesignDescription": "Focused on designing intuitive and functional interfaces. I create mockups and prototypes to ensure the user experience is optimal, from navigation to final interaction."
+    },
+    "getInTouch": "Get in Touch",
+    "getInTouchDescription": "Let's build something great together -- feel free to connect with me through any of the platforms above.",
+    "services": {
+        "title": "My Services",
+        "webDevelopment": "Web Development",
+        "webDevelopmentServiceDescription": "Creating dynamic, responsive, and high-performance web applications tailored to your needs.",
+        "graphicDesign": "Graphic Design",
+        "graphicDesignServiceDescription": "Designing attractive visual identities and graphic materials that effectively communicate your message.",
+        "digitalMarketing": "Digital Marketing",
+        "digitalMarketingServiceDescription": "Implementing SEO strategies and content management to improve your online presence."
+    },
+    "seeMore": "See more",
+    "seeLess": "See less"
+  },
+  "aboutPage": {
+    "name": "Miguel Burgos",
+    "initials": "MA",
+    "role": "Software Eng. Student & Web Developer",
+    "headerAlt": "Abstract network of interconnected nodes, representing technology and software development.",
+    "messageButton": "Message me",
+    "aboutTitle": "About Me",
+    "seeMore": "See more",
+    "seeLess": "See less",
+    "fullAboutText": "I am currently studying Software Engineering at Fundación Universitaria Compensar, where I am deepening my knowledge in software architecture, agile methodologies, and development patterns. I am also a technician in Marketing and Sales, with experience in administrative tasks, customer service, and sales, which gives me a broad vision of business needs. I’m passionate about art and technology, and I have independently developed skills in design and multimedia production. My goal is to combine my technical knowledge with my communication skills to develop useful and well-thought-out projects that truly respond to people's needs.",
+    "shortAboutText": "I am currently pursuing a degree in Software Engineering...",
+    "showAllCertificates": "Show all certificates",
+    "form": {
+        "name": "Name",
+        "namePlaceholder": "Your name",
+        "email": "Email",
+        "emailPlaceholder": "your.email@example.com",
+        "message": "Message",
+        "messagePlaceholder": "Write your message here...",
+        "submit": "Send Message",
+        "contactTitle": "Send Message",
+        "contactNote": "Feel free to send a message, I'll respond directly to your email."
+    },
+    "education": {
+        "title": "Education",
+        "degree": "Software Engineering",
+        "institution": "Fundación Universitaria Compensar",
+        "date": "Aug. 2022 - Present",
+        "fullDescription": "Algorithms||Databases||Data Structures||Object Oriented Programming||Software Testing||Front-End Web Software Development||User Interfaces||Back-End Web Software Development||Native Mobile Application Development||Mechanical Physics||Multivariable Calculus||Cloud Solutions Development||Software Requirements||Hybrid Mobile Application Development||Software Design Patterns and Information Security.",
+        "shortDescription": "Algorithms, Databases, Data Structures, Object..."
+    },
+    "education2": {
+        "degree": "Technician in Marketing and Sales",
+        "institution": "Inesco",
+        "date": "Jan. 2019 - Jul. 2020",
+        "fullDescription": "Marketing Fundamentals||Digital Marketing||Space Design and Adaptation||Sales Techniques||Customer Service.",
+        "shortDescription": "Marketing Fundamentals, Digital Marketing..."
+    },
+    "experience": {
+        "title": "Experience",
+        "role_intern": "Marketing and Administrative Intern",
+        "company_intern": "Nexarte, operation Alimentos Polar",
+        "date_intern": "Jul. 2019 - May. 2020",
+        "fullDescription_intern": "Assisting merchandisers and sellers.||Preparing reports on disabilities and staff retirements.||Delivering supplies and inventory control.",
+        "shortDescription_intern": "Assisting merchandisers and sellers...",
+        "role_commercial": "Content & Social Media Specialist",
+        "company_commercial": "Todo a un Click",
+        "date_commercial": "May 2020 - Dec 2021",
+        "fullDescription_commercial": "Develop and manage engaging and relevant content for digital platforms, including blogs, social media, and emails, aligned with brand identity.||Plan and execute strategies to increase reach and engagement on social media, adapting content to each platform (Instagram, Facebook, Twitter, LinkedIn, etc.).||Optimize content to improve search engine visibility and attract organic traffic, using relevant keywords and search trends.||Monitor performance metrics of social media and content, making adjustments based on results and trends.",
+        "shortDescription_commercial": "Develop and manage engaging and relevant content...",
+        "role_dev": "Junior Programmer",
+        "company_dev": "Todo a un Click",
+        "date_dev": "Jan. 2022 - May. 2025",
+        "fullDescription_dev": "Creating mockups in Figma / Adobe Xd for websites.||Converting designs from Figma / Adobe XD into responsive and accessible websites with Wordpress, Node, and React.||Optimizing websites for speed, accessibility, and SEO.||Troubleshooting, debugging, and optimizing existing codebases.||Participating in the development of code test plans, quality assurance testing, tracking, and issue resolution.||Developing digital marketing campaigns via email and social media.||Recording and classifying incidents and requests.",
+        "shortDescription_dev": "Creating mockups in Figma / Adobe Xd for websites..."
+    }
+  },
+  "contactForm": {
+    "status": {
+      "loading": "Sending message...",
+      "successTitle": "Message Sent!",
+      "successMessage": "Thanks for reaching out. I'll get back to you soon.",
+      "errorTitle": "Sending Error",
+      "errorMessage": "There was a problem sending your message. Please try again.",
+      "tryAgain": "Try Again"
+    }
+  },
+  "certificationsPage": {
+    "showCredential": "Show Credential",
+    "sortNewest": "Newest",
+    "sortOldest": "Oldest",
+    "filterPlaceholder": "Filter by issuer...",
+    "filterAll": "All Issuers"
+  },
+  "blogPage": {
+    "title": "Blogs",
+    "recentPosts": "Recent Posts",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {currentPage} of {totalPages}"
+  },
+  "projectsPage": {
+    "mobileDevelopment": "Mobile",
+    "technologies": "Technologies",
+    "frontendRepository": "Frontend Repo",
+    "backendRepository": "Backend Repo",
+    "repository": "Repository",
+    "demo": "Demo",
+    "viewGallery": "View Gallery",
+    "viewPromo": "View Promo"
+  },
+  "projects": {
+    "web": {
+      "salonderechazados": {
+        "title": "Salón de Rechazados",
+        "description": "Salón de Rechazados is a space for those who feel cinema in a deeper and more personal way. It explores the lasting impact a film leaves behind, moving away from technical critiques and box-office rankings."
+      },
+      "yuwelongo": {
+        "title": "YuweLongo",
+        "description": "YuweLongo is an interactive dictionary of the Nasa Yuwe indigenous language, accompanied by an educational game. The frontend is built with React and the Java backend (Jakarta EE / Servlets) handles authentication using JWT."
+      },
+      "futdraft": {
+        "title": "1vs1 FutDraft",
+        "description": "Interactive web application designed for soccer fans to create, visualize, and share FPC lineups. This project, developed as part of my portfolio, demonstrates the ability to build a modern, interactive, and scalable full-stack application."
+      },
+      "petlink": {
+        "title": "Pet Link",
+        "description": "A system designed for the management and security of pets. It allows owners to create detailed profiles for their pets, linked to identification tags with unique QR codes."
+      },
+      "coonadoc": {
+        "title": "Coonadoc",
+        "description": "Website for a contributions and credit cooperative."
+      },
+      "picasyfijas": {
+        "title": "Picas y Fijas",
+        "description": "A classic logic game to guess a secret number. Developed as a project for the Algorithms class."
+      },
+      "textencryptor": {
+        "title": "Text Encryptor",
+        "description": "A simple tool to encrypt and decrypt messages. Developed as a project for the Front-end course at Alura Latam."
+      }
+    },
+    "mobile": {
+        "nexwork": {
+            "title": "NexWork",
+            "description": "NexWork is a mobile application for Android that connects service providers with clients within a two-way marketplace. The platform facilitates the search, booking, and management of services through a role-based system for clients, providers, and administrators."
+        }
+    },
+    "graphic": {
+      "toshiro": {
+        "title": "Toshiro Sushi Carousel",
+        "description": "Promotional carousel designed for the social media of Toshiro, a sushi restaurant, highlighting its star products and brand identity."
+      },
+      "sdr": {
+        "title": "Brand Manual Salón de Rechazados",
+        "description": "A personal project exploring film analysis, video essays, and film criticism. A space for those who truly feel the magic of cinema, going beyond conventional reviews."
+      },
+      "coopfiligrana": {
+        "title": "Coopfiligrana Stories Carousel",
+        "description": "Carousel with stories designed for the social media of the Coopfiligrana cooperative."
+      }
+    },
+    "uiux": {
+      "smarthome": {
+        "title": "SmartHome Dashboard Mockup",
+        "description": "Company that enables users to monitor and control their homes' energy efficiency, perimeter security, and environmental comfort (lighting and climate) in real time, transforming complex sensor data into actionable insights to reduce environmental impact and improve quality of life."
+      },
+      "sbcleanco": {
+        "title": "SBCleanCo Website Mockup",
+        "description": "Company that offers cleaning services for businesses, stores, galleries, gyms, and spas."
+      },
+      "FlowSync":{
+        "title":"FlowSync Ladingpage Mockup",
+        "description":"It is an AI-powered fleet and last-mile management platform."
+      }
+    }
+  },
+  "certifications": {
+    "months": {
+        "jan": "Jan", "feb": "Feb", "mar": "Mar", "apr": "Apr", "may": "May", "jun": "Jun",
+        "jul": "Jul", "aug": "Aug", "sep": "Sep", "oct": "Oct", "nov": "Nov", "dec": "Dec"
+    },
+    "ccna1": {
+        "title": "CCNA1: Introduction to Networks",
+        "issuer": "Cisco Networking Academy",
+        "date": "Apr 2025"
+    },
+    "dataScienceAzure": {
+        "title": "Data Science with Azure",
+        "issuer": "Código Facilito",
+        "date": "Feb 2025"
+    },
+    "oracleCloud": {
+        "title": "Oracle Cloud Infrastructure Training",
+        "issuer": "Alura Latam",
+        "date": "Nov 2024"
+    },
+    "sqlMysql": {
+        "title": "SQL with MySQL Training",
+        "issuer": "Alura Latam",
+        "date": "Nov 2024"
+    },
+    "sqlServer": {
+        "title": "SQL with Oracle MySQL Server Training",
+        "issuer": "Alura Latam",
+        "date": "Nov 2024"
+    },
+    "genAI": {
+        "title": "Generative AI Training",
+        "issuer": "Alura Latam",
+        "date": "Oct 2024"
+    },
+    "reactJs": {
+        "title": "Explore React with JavaScript Training",
+        "issuer": "Alura Latam",
+        "date": "Jul 2024"
+    },
+    "frontend": {
+        "title": "Front-End Training",
+        "issuer": "Alura Latam",
+        "date": "Jul 2024"
+    },
+    "react": {
+        "title": "React Training",
+        "issuer": "Alura Latam",
+        "date": "Jul 2024"
+    },
+    "oracleFrontend": {
+        "title": "Oracle Next Education Program F2 T6 Front-end",
+        "issuer": "Alura Latam",
+        "date": "Jul 2024"
+    },
+    "logicJs": {
+        "title": "Programming Logic with JavaScript Training",
+        "issuer": "Alura Latam",
+        "date": "Jan 2024"
+    },
+    "gitGithub": {
+        "title": "Git and GitHub: repository, commit and versions",
+        "issuer": "Alura Latam",
+        "date": "Jan 2024"
+    },
+    "javaProgramming": {
+        "title": "Java Programming",
+        "issuer": "Oracle",
+        "date": "Oct. 2024"
+    },
+    "javaFoundations": {
+        "title": "Java Foundations",
+        "issuer": "Oracle",
+        "date": "Apr 2024"
+    },
+    "databaseDesign": {
+        "title": "Database Design",
+        "issuer": "Oracle",
+        "date": "May. 2024"
+    },
+    "databaseFoundations": {
+        "title": "Database Foundations",
+        "issuer": "Oracle",
+        "date": "Nov. 2023"
+    },
+    "javaFundamentals": {
+        "title": "Java Fundamentals",
+        "issuer": "Oracle",
+        "date": "Oct. 2023"
+    },
+    "gitGithubPlatzi": {
+        "title": "Professional Git and Github Course",
+        "issuer": "Platzi",
+        "date": "Oct. 2022"
+    },
+    "softwareDevelopment": {
+        "title": "Software Development",
+        "issuer": "Universidad del Bosque",
+        "date": "Nov. 2021"
+    },
+    "programmingFundamentals": {
+        "title": "Programming Fundamentals",
+        "issuer": "Universidad del Bosque",
+        "date": "Nov. 2021"
+    },
+    "basicProgramming": {
+        "title": "Basic Programming",
+        "issuer": "Universidad del Bosque",
+        "date": "Nov. 2021"
+    },
+    "digitalMarketing": {
+        "title": "Basic Concepts of Digital Marketing",
+        "issuer": "Google Digital Garage",
+        "date": "May. 2021"
+    },
+    "introDataScience": {
+        "title": "Introduction to Data Science",
+        "issuer": "Cisco Networking Academy",
+        "date": "Sep. 2023"
+    }
+  }
+}
