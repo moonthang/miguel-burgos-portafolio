@@ -168,6 +168,10 @@
         "title": "Pet Link",
         "description": "Sistema diseñado para la gestión y seguridad de mascotas. Permite a los dueños crear perfiles detallados para sus mascotas, vinculados a placas de identificación con códigos QR únicos."
       },
+      "forofinanzas": {
+        "title": "Foro Finanzas",
+        "description": "Rediseño de ladingpage de un foro de finanzas. Elaborado para una prueba tecnica sobre Wordpress donde se solicitó: Página de Aterrizaje: Maquetar una página visualmente atractiva que motive el registro. Debe incluir un formulario para captar datos del usuario. y página de agradecimiento:  Maquetar una página simple y directa que confirme el registro exitoso del usuario, a la cual se debe redirigir después de enviar el formulario."
+      },
       "coonadoc": {
         "title": "Coonadoc",
         "description": "Sitio web para una cooperativa de aportes y credito."

@@ -76,6 +76,16 @@ export const projectsData = {
           { name: "Lucide Icons", icon: "https://lucide.dev/logo.dark.svg" },
         ],
       },
+      {
+        titleKey: "projects.web.forofinanzas.title",
+        descriptionKey: "projects.web.forofinanzas.description",
+        imageUrl: "https://us-west-2.graphassets.com/cmdc30lgu1tuj06n2dtwpe500/cmp1ypodc98i308lt2ux01g2y",
+        imageHint: "Foro de finanzas ladingpage",
+        demoLink: "https://dev-pruebaforofinanzas.pantheonsite.io/",
+        technologies: [
+          { name: "Wordpress", icon: "https://cdn.jsdelivr.net/npm/@wordpress/icons@13.0.0/+esm" },
+        ],
+      },
        {
         titleKey: "projects.web.coonadoc.title",
         descriptionKey: "projects.web.coonadoc.description",

@@ -168,6 +168,10 @@
         "title": "Pet Link",
         "description": "A system designed for the management and security of pets. It allows owners to create detailed profiles for their pets, linked to identification tags with unique QR codes."
       },
+      "forofinanzas": {
+        "title": "Foro Finanzas",
+        "description": "Redesign of a finance forum's landing page. Created for a technical test on WordPress, the requirements were as follows: Landing Page: Design a visually appealing page that encourages registration. It must include a form to capture user data. And thank-you page:  Design a simple, straightforward page that confirms the user’s successful registration, to which the user should be redirected after submitting the form."
+      },
       "coonadoc": {
         "title": "Coonadoc",
         "description": "Website for a contributions and credit cooperative."
