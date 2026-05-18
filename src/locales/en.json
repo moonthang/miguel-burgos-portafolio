@@ -203,6 +203,22 @@
       "coopfiligrana": {
         "title": "Coopfiligrana Stories Carousel",
         "description": "Carousel with stories designed for the social media of the Coopfiligrana cooperative."
+      },
+      "pendonTauck": {
+        "title": "Todo a un Click Banner",
+        "description": "Banner featuring the products offered by Todo a un Click."
+      },
+      "productosTauck": {
+        "title": "Todo a un Click Product Stories",
+        "description": "Stories promoting the products offered by Todo a un Click."
+      },
+      "hBlogTauck": {
+        "title": "Todo a un Click Blog Stories",
+        "description": "Stories featuring news from the Todo a un Click blog"
+      },
+      "otrosTauck": {
+        "title": "Special Days and ‘Todo a un Click’ Banners",
+        "description": "Other ‘Todo a un Click’ designs, featuring special days and banners."
       }
     },
     "uiux": {

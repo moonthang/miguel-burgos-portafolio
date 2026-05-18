@@ -203,6 +203,22 @@
        "coopfiligrana": {
         "title": "Carrusel de Historias Coopfiligrana",
         "description": "Carrusel con historias diseñado para las redes sociales de la cooperativa Coopfiligrana."
+      },
+      "pendonTauck": {
+        "title": "Pendón Todo a un Click",
+        "description": "Pendón con los productos ofrecidos por Todo a un Click."
+      },
+      "productosTauck": {
+        "title": "Historias productos Todo a un Click",
+        "description": "Historias promocionando los productos ofrecidos por Todo a un Click."
+      },
+      "hBlogTauck": {
+        "title": "Historias blog Todo a un Click",
+        "description": "Historias con noticias del blog de Todo a un Click."
+      },
+      "otrosTauck": {
+        "title": "Días especiales y banner Todo a un Click",
+        "description": "Otros diseños de Todo a un Click, con días especiales y banners."
       }
     },
     "uiux": {
