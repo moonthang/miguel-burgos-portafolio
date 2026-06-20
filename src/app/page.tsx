@@ -142,10 +142,10 @@ const MainContent = () => {
                     <span>{t('main.careerStats')}</span>
                 </CardTitle>
             </CardHeader>
-            <CardContent>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <CardContent className="px-0">
+                <div className="grid grid-cols-2 md:grid-cols-4 divide-x divide-y md:divide-y-0 border-border/50">
                 {careerStats.map((stat) => (
-                    <div key={stat.labelKey} className="flex flex-col items-start text-left p-4 rounded-lg bg-card border transition-colors hover:bg-accent">
+                    <div key={stat.labelKey} className="flex flex-col items-start text-left p-6">
                         <div className="flex items-center gap-4">
                             <div className={`p-3 rounded-full ${stat.color}`}>
                                 <stat.icon className="h-6 w-6" />
