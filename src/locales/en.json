@@ -53,7 +53,7 @@
         "webDevelopmentServiceDescription": "Creating dynamic, responsive, and high-performance web applications tailored to your needs.",
         "graphicDesign": "Graphic Design",
         "graphicDesignServiceDescription": "Designing attractive visual identities and graphic materials that effectively communicate your message.",
-        "digitalMarketing": "Digital Marketing",
+        "digitalMarketing": "Marketing Digital",
         "digitalMarketingServiceDescription": "Implementing SEO strategies and content management to improve your online presence."
     },
     "seeMore": "See more",
@@ -186,6 +186,10 @@
       }
     },
     "mobile": {
+        "findbook": {
+            "title": "FindBook",
+            "description": "FindBook is a literary discovery platform powered by dynamic interactions. Using a profiling system based on key questions, the application generates personalized recommendations. Users can explore titles through intuitive gestures, discarding options or saving them to their personal library."
+        },
         "nexwork": {
             "title": "NexWork",
             "description": "NexWork is a mobile application for Android that connects service providers with clients within a two-way marketplace. The platform facilitates the search, booking, and management of services through a role-based system for clients, providers, and administrators."
@@ -227,7 +231,7 @@
         "description": "Company that enables users to monitor and control their homes' energy efficiency, perimeter security, and environmental comfort (lighting and climate) in real time, transforming complex sensor data into actionable insights to reduce environmental impact and improve quality of life."
       },
       "sbcleanco": {
-        "title": "SBCleanCo Website Mockup",
+        "title": "SmartHome Website Mockup",
         "description": "Company that offers cleaning services for businesses, stores, galleries, gyms, and spas."
       },
       "FlowSync":{

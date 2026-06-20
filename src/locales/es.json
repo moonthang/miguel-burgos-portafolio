@@ -186,6 +186,10 @@
       }
     },
     "mobile": {
+        "findbook": {
+            "title": "FindBook",
+            "description": "FindBook es una plataforma de descubrimiento literario impulsada por interacciones dinámicas. Mediante un sistema de perfilado basado en preguntas clave, la aplicación genera recomendaciones personalizadas. Los usuarios pueden explorar títulos mediante gestos intuitivos, descartando opciones o guardándolas en su biblioteca personal."
+        },
         "nexwork": {
             "title": "NexWork",
             "description": "NexWork es una aplicación móvil para Android que conecta proveedores de servicios con clientes dentro de un marketplace de dos vías. La plataforma facilita la búsqueda, reserva y gestión de servicios mediante un sistema basado en roles para clientes, proveedores y administradores."

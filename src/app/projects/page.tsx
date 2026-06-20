@@ -15,8 +15,9 @@ import { cn } from "@/lib/utils";
 import { ExpandableText } from "@/components/ui/expandable-text";
 import { ProjectFigmaModal } from "@/components/project-figma-modal";
 import { projectsData } from "@/lib/projects-data";
+import { motion, AnimatePresence } from "framer-motion";
 
-const ProjectCard = ({ project, type }: { project: any, type: string }) => {
+const ProjectCard = ({ project }: { project: any }) => {
     const { t } = useTranslation();
     const [showAllTechs, setShowAllTechs] = useState(false);
     const [isGalleryOpen, setIsGalleryOpen] = useState(false);
@@ -38,7 +39,12 @@ const ProjectCard = ({ project, type }: { project: any, type: string }) => {
     const isYuweLongo = project.titleKey === "projects.web.yuwelongo.title";
     
     return (
-        <>
+        <motion.div
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -10 }}
+            transition={{ duration: 0.3 }}
+        >
             <Card 
                 onClick={handleCardClick}
                 className={cn(
@@ -166,7 +172,7 @@ const ProjectCard = ({ project, type }: { project: any, type: string }) => {
                     title={t(project.titleKey)}
                 />
             )}
-        </>
+        </motion.div>
       );
 }
 
@@ -200,10 +206,17 @@ export default function ProjectsPage() {
             <div className="mb-6 flex justify-center">
                 <AnimatedTabs tabs={tabs} activeTab={activeTab} setActiveTab={setActiveTab} />
             </div>
-            <div className="grid grid-cols-1 gap-6">
-              {CurrentProjects().map((p, i) => (
-                <ProjectCard key={i} project={p} type={activeTab} />
-              ))}
+            <div className="grid grid-cols-1 gap-6 min-h-[400px]">
+              <AnimatePresence mode="wait">
+                <div key={activeTab} className="grid grid-cols-1 gap-6 w-full">
+                  {CurrentProjects().map((p, i) => (
+                    <ProjectCard 
+                        key={`${activeTab}-${p.titleKey}-${i}`} 
+                        project={p} 
+                    />
+                  ))}
+                </div>
+              </AnimatePresence>
             </div>
           </div>
         </CardContent>

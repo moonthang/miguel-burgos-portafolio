@@ -83,7 +83,7 @@ export const projectsData = {
         imageHint: "Foro de finanzas ladingpage",
         demoLink: "https://dev-pruebaforofinanzas.pantheonsite.io/",
         technologies: [
-          { name: "Wordpress", icon: "https://cdn.jsdelivr.net/npm/@wordpress/icons@13.0.0/+esm" },
+          { name: "WordPress", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" },
         ],
       },
        {
@@ -128,6 +128,20 @@ export const projectsData = {
       },
     ],
     mobile: [
+      {
+        titleKey: "projects.mobile.findbook.title",
+        descriptionKey: "projects.mobile.findbook.description",
+        imageUrl: "https://us-west-2.graphassets.com/cmdc30lgu1tuj06n2dtwpe500/cmqmlbjvteju908ln1i45576s",
+        imageHint: "book swiping app",
+        repoLink: "https://github.com/moonthang/FindBook",
+        demoLink: "https://find-book-livid.vercel.app/",
+        technologies: [
+          { name: "Expo (React Native)", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+          { name: "Firebase", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
+          { name: "TypeScript", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
+          { name: "Reanimated", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+        ],
+      },
       {
         titleKey: "projects.mobile.nexwork.title",
         descriptionKey: "projects.mobile.nexwork.description",
